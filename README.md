@@ -21,7 +21,25 @@ Projects:
 ### Day 2 — Conditionals
 
 Projects:
-- Study Decision Engine
+- Study Decision Engine ✅ 
+
+What it does:
+- Asks the user for their energy level
+- Asks for their stress level
+- Asks how much study time they have available
+- Validates user input
+- Recommends a study mode based on the user's answers
+- Gives a reason for the recommendation
+- Provides a specific next action
+
+Study modes:
+- Rest / Reset
+- Quick Review
+- Light Review
+- Coding Practice
+- Deep Study
+
+Projects:
 - Text Adventure Game
 
 ### Day 3 — Loops
